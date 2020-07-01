@@ -1,7 +1,7 @@
 @font-face {
   font-family: carolus_fgregular;
-  src: url('C:\Users\gwill\Documents\Code\Home Page Project\Fonts\carolus-fg\webfontkit-carolus\carolus-webfont.woff2') format('woff2'),
-       url('C:\Users\gwill\Documents\Code\Home Page Project\Fonts\carolus-fg\webfontkit-carolus\carolus-webfont.woff') format('woff');
+  src: url('Fonts\carolus-fg\webfontkit-carolus\carolus-webfont.woff2') format('woff2'),
+       url('Fonts\carolus-fg\webfontkit-carolus\carolus-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
